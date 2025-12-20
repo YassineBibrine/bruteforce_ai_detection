@@ -1,0 +1,2 @@
+{"ts":1739559376.075511,"uid":"CCWc3h3cOck731x801","id.orig_h":"192.168.1.85","id.orig_p":50349,"id.resp_h":"54.187.112.38","id.resp_p":443,"version":"TLSv12","cipher":"TLS_PSK_WITH_AES_128_CBC_SHA256","resumed":true,"established":true,"ssl_history":"CsiI"}
+{"ts":1739559416.333318,"uid":"CBECr32W1UJrgljkE4","id.orig_h":"192.168.1.55","id.orig_p":53885,"id.resp_h":"44.230.212.240","id.resp_p":443,"server_name":"a2.tuyaus.com","resumed":false,"established":false,"ssl_history":"C"}

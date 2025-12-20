@@ -1,0 +1,4 @@
+{"ts":1739537247.633924,"uid":"CEmpJa4pwvmXKfGip7","id.orig_h":"192.168.1.193","id.orig_p":49896,"id.resp_h":"192.168.230.7","id.resp_p":9200,"name":"TCP_ack_underflow_or_misorder","notice":false,"peer":"zeek","source":"TCP"}
+{"ts":1739537247.650413,"uid":"CEmpJa4pwvmXKfGip7","id.orig_h":"192.168.1.193","id.orig_p":49896,"id.resp_h":"192.168.230.7","id.resp_p":9200,"name":"TCP_seq_underflow_or_misorder","notice":false,"peer":"zeek","source":"TCP"}
+{"ts":1739537247.656217,"uid":"CEmpJa4pwvmXKfGip7","id.orig_h":"192.168.1.193","id.orig_p":49896,"id.resp_h":"192.168.230.7","id.resp_p":9200,"name":"line_terminated_with_single_CR","notice":false,"peer":"zeek","source":"CONTENTLINE"}
+{"ts":1739537248.641862,"uid":"CEmpJa4pwvmXKfGip7","id.orig_h":"192.168.1.193","id.orig_p":49896,"id.resp_h":"192.168.230.7","id.resp_p":9200,"name":"bad_TCP_checksum","notice":false,"peer":"zeek","source":"TCP"}

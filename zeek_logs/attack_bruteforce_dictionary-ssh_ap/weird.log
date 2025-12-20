@@ -1,0 +1,2 @@
+{"ts":1739536607.898164,"uid":"CNpjIE1ufbumkFVX8k","id.orig_h":"192.168.1.193","id.orig_p":49896,"id.resp_h":"192.168.230.7","id.resp_p":9200,"name":"line_terminated_with_single_CR","notice":false,"peer":"zeek","source":"CONTENTLINE"}
+{"ts":1739536614.154304,"uid":"CNpjIE1ufbumkFVX8k","id.orig_h":"192.168.1.193","id.orig_p":49896,"id.resp_h":"192.168.230.7","id.resp_p":9200,"name":"bad_TCP_checksum","notice":false,"peer":"zeek","source":"TCP"}

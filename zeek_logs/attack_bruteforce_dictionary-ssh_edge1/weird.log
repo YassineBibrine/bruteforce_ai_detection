@@ -1,0 +1,3 @@
+{"ts":1739477751.760507,"uid":"CAWA6J1T1YGUgDoTE8","id.orig_h":"192.168.1.193","id.orig_p":38824,"id.resp_h":"192.168.230.7","id.resp_p":9200,"name":"bad_TCP_checksum","notice":false,"peer":"zeek","source":"TCP"}
+{"ts":1739477752.766283,"uid":"CAWA6J1T1YGUgDoTE8","id.orig_h":"192.168.1.193","id.orig_p":38824,"id.resp_h":"192.168.230.7","id.resp_p":9200,"name":"line_terminated_with_single_CR","notice":false,"peer":"zeek","source":"CONTENTLINE"}
+{"ts":1739477755.169553,"uid":"Cjy9Gb1klBAfSV69T9","id.orig_h":"192.168.1.52","id.orig_p":42848,"id.resp_h":"129.146.120.172","id.resp_p":50920,"name":"bad_TCP_checksum","notice":false,"peer":"zeek","source":"TCP"}
